@@ -3,7 +3,8 @@
 *I build things that work, then I teach machines to think.*
 
 | Build | Think |
-|---|---|
+|:---:|:---:|
+| **Full-Stack Ecosystems** | **Neural Architectures** |
 | Java · Spring Boot | PyTorch · Transformers |
 | PHP · Laravel | scikit-learn · NumPy |
 | Python · Django · FastAPI | Reinforcement Learning |
@@ -12,4 +13,10 @@
 
 ---
 
-*Less noise. More signal.*
+### 🟢 Runtime Status: Active
+```zsh
+$ brain --status
+> Mode: Latent Space Exploration
+> Focus: Biological Neuroscience x Computational Vision
+> Activity: Modeling human systems through compute.
+> Current_loss: 0.042 (Optimizing...)
